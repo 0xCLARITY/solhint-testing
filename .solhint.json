@@ -3,7 +3,7 @@
   "rules": {
     "compiler-version": ["error", "^0.8.0"],
 
-    "comprehensive-interface": "warn",
+    "comprehensive-interface": "off",
     "constructor-syntax": "warn",
     "func-named-parameters": ["warn", 3],
     "func-visibility": ["warn", { "ignoreConstructors": true }],
