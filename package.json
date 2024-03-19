@@ -1,0 +1,9 @@
+{
+  "name": "solhint-testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "solhint": "^4.5.2"
+  }
+}
